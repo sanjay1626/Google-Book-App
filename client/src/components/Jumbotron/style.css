@@ -1,0 +1,13 @@
+.jumbotron {
+  width: 100%;
+  min-height: 300px;
+  padding-top: 100px;
+  margin: 0px;
+  margin-bottom: 5%;
+  display: table;
+  padding: 180px 20px;
+  color: #ffffff;
+  background-image: url("https://th.bing.com/th/id/OIP.8Xh3vZ90u-9f7DUwSXJZDQHaFj?pid=ImgDet&rs=1");
+  background-size: cover;
+  background-attachment: fixed;
+}
